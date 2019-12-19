@@ -24,5 +24,4 @@ public class TestandoListas {
         Collections.sort(cursos);
         System.out.println(cursos);
     }
-
 }
